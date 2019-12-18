@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 손영국의 개인 프로젝트에 오신 것을 환영합니다.
+
+이 페이지는 손영국의 개인 프로젝트를 소개하는 페이지입니다.
 
 You can use the [editor on GitHub](https://github.com/oreoTaste/oreoTaste.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
